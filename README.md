@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<img width="1920" height="1080" alt="image" src="https://raw.githubusercontent.com/Noo2r/Noo2r/main/Image.png" />
+<img width="1920" height="900" alt="image" src="https://raw.githubusercontent.com/Noo2r/Noo2r/main/Image.png" />
 
 ---
 
