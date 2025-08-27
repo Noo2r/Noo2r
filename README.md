@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">👋 Hey, I’m Nour Eldin Ahmed</h1>
+<h1 align="center">👋 Hi, I’m Nour Eldin Ahmed</h1>
 
 <p align="center">
 🚀 Aspiring <strong>AI & Data Science | Data Analyst | Developer</strong> <br>
